@@ -64,11 +64,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Blade.cs" />
     <Compile Include="Assets\ContinuousMovement.cs" />
+    <Compile Include="Assets\Gun.cs" />
     <Compile Include="Assets\HandPresence.cs" />
+    <Compile Include="Assets\LightSaber.cs" />
     <Compile Include="Assets\LocomotionController.cs" />
     <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\XROffsetGrabInteractable.cs" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

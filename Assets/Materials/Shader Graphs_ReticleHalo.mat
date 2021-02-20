@@ -13,8 +13,8 @@ Material:
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: 3000
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
@@ -22,5 +22,5 @@ Material:
     m_TexEnvs: []
     m_Floats: []
     m_Colors:
-    - Color_45305C83: {r: 0, g: 0.8654461, b: 1, a: 0.6117647}
-    - Color_DECC97A5: {r: 0, g: 0.62258625, b: 1, a: 0}
+    - Color_45305C83: {r: 0, g: 1, b: 0.96727276, a: 0.6117647}
+    - Color_DECC97A5: {r: 0, g: 0.92708325, b: 1, a: 0.6117647}
